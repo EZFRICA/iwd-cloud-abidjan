@@ -6,7 +6,7 @@
   "dir": "auto",
   "related_applications": [{
     "platform": "webapp",
-    "url": "https://iwd2023.gdgcloudabidjan.dev/manifest.webmanifest"
+    "url": "https://iwd.gdgcloudabidjan.dev/manifest.webmanifest"
   }],
   "prefer_related_applications": true,
   "categories": ["social", "productivity", "news"],
@@ -17,7 +17,7 @@
     "params": {
       "title": "[ IWD Cloud Abidjan 2023 ]",
       "text": "Développez vos compétences en participant à des ateliers pratiques, à des discussions de certification et à des questions-réponses en direct avec des Google Developer Expert.",
-      "url": "https://iwd2023.gdgcloudabidjan.dev/"
+      "url": "https://iwd.gdgcloudabidjan.dev/"
     }
   },
   "icons": [
